@@ -85,14 +85,14 @@ npm run dev
 
 <h2 id="future-changes">🌱 Future Changes</h2>
 
-- Add red border to empty fields upon validation
-- Add user registration and login
-- Synchronization of inserted data with the logged-in user (if applicable/present)
-- Dark mode
-- Addition of themes / Adding themes
-- Add a calendar to set the task deadline
-- Indicate when no task is registered / Display a message when there are no registered tasks
-- Add notifications
+- Add red border to empty fields upon validation ✅
+- Add user registration and login ⏳
+- Synchronization of inserted data with the logged-in user (if applicable/present) ⏳
+- Dark mode ⏳
+- Addition of themes / Adding themes ⏳
+- Add a calendar to set the task deadline ⏳
+- Indicate when no task is registered / Display a message when there are no registered tasks ⏳
+- Add notifications ⏳
 
 
 <h2 id="contribute">📫 Contribute</h2>
